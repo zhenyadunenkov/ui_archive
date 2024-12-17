@@ -2,7 +2,7 @@
 
 ## **1\. Информация о сайте**
 
-[![Скриншот архива сайта](replay_web.png)](replay_web.png)
+[![Скриншот архива сайта](https://raw.githubusercontent.com/zhenyadunenkov/ui_archive/refs/heads/main/ui_kovcheg/replay_web.png)](https://raw.githubusercontent.com/zhenyadunenkov/ui_archive/refs/heads/main/ui_kovcheg/replay_web.png)
 
 Сайт православного храма Всех Святых в Усть-Илимске предоставляет информацию о жизни прихода, богослужениях, священнослужителях и духовных мероприятиях. На сайте можно найти расписание служб, объявления и новости храма, а также контактную информацию. Ресурс предназначен для прихожан и всех интересующихся деятельностью храма.
 
