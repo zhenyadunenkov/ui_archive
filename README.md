@@ -51,7 +51,7 @@ wget "https://uikovcheg.narod.ru/" --mirror -k --warc-cdx=on  --warc-file="ui_ko
 
 Анализ метаданных архивов проведён с помощью пакета [metawarc](https://github.com/datacoon/metawarc).
 
-## **5\. Элементы коллекции**
+## **5\. Сайты коллекции**
 
 | Сайт | Владелец сайта | Содержимое сайта | Размер |
 | :---- | :---- | :---- | :---- |
