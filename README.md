@@ -43,7 +43,7 @@
 Сайты были загружены и сохранены в формате warc с помощью unix-утилиты [Wget](https://ru.wikipedia.org/wiki/Wget) c указанием соответствующих параметров. Ниже приведён пример команды для загрузки одного из сайтов коллекции.
 
 ```
-wget "https://uikovcheg.narod.ru/" \--mirror \-k \--warc-cdx=on  \--warc-file="ui\_kovcheg" \--no-warc-compression
+wget "https://uikovcheg.narod.ru/" --mirror -k --warc-cdx=on  --warc-file="ui_kovcheg" --no-warc-compression
 ```
 Для проверки функциональности полученных архивы использовался сервис [ReplayWeb.page](http://ReplayWeb.page).
 
