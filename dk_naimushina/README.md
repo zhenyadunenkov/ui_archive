@@ -31,7 +31,7 @@
 
 ## **3\. Анализ метаданных**
 
-Результаты выполнения команды ***metawarc analyze***   
+Результаты выполнения команды ```metawarc analyze```   
 2024-12-17 18:22:42,563 \- root \- DEBUG \- Preparing /content/drive/MyDrive/dk\_naimushina.warc  
 2024-12-17 18:23:27,946 \- root \- INFO \- Processed 10000 records  
 mimes                                                                      files        size          share  
