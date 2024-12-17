@@ -31,31 +31,32 @@
 
 ## **3\. Анализ метаданных**
 
-Результаты выполнения команды ```metawarc analyze```   
-2024-12-17 18:22:42,563 \- root \- DEBUG \- Preparing /content/drive/MyDrive/dk\_naimushina.warc  
-2024-12-17 18:23:27,946 \- root \- INFO \- Processed 10000 records  
-mimes                                                                      files        size          share  
-\-----------------------------------------------------------------------  \-------  \----------  \-------------  
-image/jpeg                                                                  6198  1771544157   67.4306  
-application/pdf                                                              287   451106604   17.1706  
-text/html                                                                   3699   361288435   13.7518  
-text/calendar                                                                506    19625311    0.747002  
-application/json                                                             819     9265400    0.352671  
-image/png                                                                     48     2622969    0.0998386  
-application/javascript                                                        58     2221788    0.0845684  
-text/xml                                                                     367     1800818    0.0685449  
-image/webp                                                                     6     1762591    0.0670899  
-image/svg+xml                                                                 18     1744413    0.0663979  
-font/ttf                                                                       9     1101849    0.0419399  
-text/css                                                                      45      982986    0.0374156  
-application/vnd.ms-fontobject                                                 10      739984    0.0281662  
-application/rss+xml                                                          228      639817    0.0243535  
-font/woff2                                                                     7      465863    0.0177322  
-font/woff                                                                      5      223629    0.00851204  
-application/vnd.openxmlformats-officedocument.wordprocessingml.document        3       54716    0.00208267  
-image/gif                                                                      6       16519    0.000628766  
-text/plain                                                                     3        1650    6.28043e-05  
-\#total                                                                     12322  2627209499  100
+Результаты выполнения команды ```metawarc analyze```:
+2024-12-17 18:22:42,563 - root - DEBUG - Preparing /content/drive/MyDrive/dk_naimushina.warc
+2024-12-17 18:23:27,946 - root - INFO - Processed 10000 records
+mimes                                                                      files        size          share
+-----------------------------------------------------------------------  -------  ----------  -------------
+image/jpeg                                                                  6198  1771544157   67.4306
+application/pdf                                                              287   451106604   17.1706
+text/html                                                                   3699   361288435   13.7518
+text/calendar                                                                506    19625311    0.747002
+application/json                                                             819     9265400    0.352671
+image/png                                                                     48     2622969    0.0998386
+application/javascript                                                        58     2221788    0.0845684
+text/xml                                                                     367     1800818    0.0685449
+image/webp                                                                     6     1762591    0.0670899
+image/svg+xml                                                                 18     1744413    0.0663979
+font/ttf                                                                       9     1101849    0.0419399
+text/css                                                                      45      982986    0.0374156
+application/vnd.ms-fontobject                                                 10      739984    0.0281662
+application/rss+xml                                                          228      639817    0.0243535
+font/woff2                                                                     7      465863    0.0177322
+font/woff                                                                      5      223629    0.00851204
+application/vnd.openxmlformats-officedocument.wordprocessingml.document        3       54716    0.00208267
+image/gif                                                                      6       16519    0.000628766
+text/plain                                                                     3        1650    6.28043e-05
+#total                                                                     12322  2627209499  100
+
 
 Мы можем видеть, что наибольшую долю на диске занимают изображения и pdf-файлы.
 
