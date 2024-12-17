@@ -68,45 +68,45 @@ text/plain                                                                     3
 <pre>
 *Group by mime type*                                         
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━┳━━━━━━━┓  
-┃ **mime**                                                                   ┃ **size**      ┃ **count** ┃  
+┃ **mime**                                                                ┃ **size**   ┃ count ┃  
 ┡━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━╇━━━━━━━┩  
-│ None                                                                   │ 1614783   │   36 │  
-│ application/font-sfnt                                                  │ 975958    │    7 │  
-│ application/font-woff                                                  │ 122043    │    2 │  
-│ application/javascript                                                 │ 15841988  │  136 │  
-│ application/javascript; charset=UTF-8                                  │ 458748    │   11 │  
-│ application/json; charset=UTF-8                                        │ 12251927  │  868 │  
-│ application/msword                                                     │ 308176    │    8 │  
-│ application/pdf                                                        │ 698699559 │  385 │  
-│ application/rss+xml; charset=UTF-8                                     │ 1265181   │  247 │  
-│ application/vnd.ms-fontobject                                          │ 4031191   │   76 │  
-│ application/vnd.openxmlformats-officedocument.wordprocessingml.document │ 372263    │   20 │  
-│ application/x-font-ttf                                                 │ 2272663   │   30 │  
-│ application/x-font-woff                                                │ 267667    │    4 │  
-│ application/zip                                                        │ 442934    │    1 │  
-│ font/ttf                                                               │ 1258053   │   11 │  
-│ font/woff                                                              │ 322096    │    7 │  
-│ font/woff2                                                             │ 465863    │    7 │  
-│ image/gif                                                              │ 239336    │   80 │  
-│ image/jpeg                                                             │ 3503759318 │ 9312 │  
-│ image/png                                                              │ 13071875  │  168 │  
-│ image/svg+xml                                                          │ 7841523   │   80 │  
-│ image/webp                                                             │ 1762591   │    6 │  
-│ text/calendar; charset=UTF-8                                           │ 19664831  │  509 │  
-│ text/css                                                               │ 3854057   │  136 │  
-│ text/html                                                              │ 50025     │  111 │  
-│ text/html; charset=UTF-8                                               │ 400341107 │ 4227 │  
-│ text/html; charset=iso-8859-1                                          │ 10593     │   17 │  
-│ text/html; charset=windows-1251                                        │ 323297    │  326 │  
-│ text/plain                                                             │ 578       │    1 │  
-│ text/plain; charset=UTF-8                                              │ 1957      │    2 │  
-│ text/plain; charset=utf-8                                              │ 2452      │    5 │  
-│ text/plain;charset=UTF-8                                               │ 259       │    1 │  
-│ text/plain;charset=windows-1251                                        │ 350       │    1 │  
-│ text/xml                                                               │ 1288      │    1 │  
-│ text/xml; charset=UTF-8                                                │ 1845904   │  380 │  
-│ text/xml; charset=utf-8                                                │ 33318     │    1 │  
-│ text/xml;charset=utf-8                                                 │ 14092154  │    1 │  
-│ video/mp4                                                              │ 1026529269 │   21 │  
+│ None                                                                    │ 1614783    │   36  │  
+│ application/font-sfnt                                                   │ 975958     │    7  │  
+│ application/font-woff                                                   │ 122043     │    2  │  
+│ application/javascript                                                  │ 15841988   │  136  │  
+│ application/javascript; charset=UTF-8                                   │ 458748     │   11  │  
+│ application/json; charset=UTF-8                                         │ 12251927   │  868  │  
+│ application/msword                                                      │ 308176     │    8  │  
+│ application/pdf                                                         │ 698699559  │  385  │  
+│ application/rss+xml; charset=UTF-8                                      │ 1265181    │  247  │  
+│ application/vnd.ms-fontobject                                           │ 4031191    │   76  │  
+│ application/vnd.openxmlformats-officedocument.wordprocessingml.document │ 372263     │   20  │  
+│ application/x-font-ttf                                                  │ 2272663    │   30  │  
+│ application/x-font-woff                                                 │ 267667     │    4  │  
+│ application/zip                                                         │ 442934     │    1  │  
+│ font/ttf                                                                │ 1258053    │   11  │  
+│ font/woff                                                               │ 322096     │    7  │  
+│ font/woff2                                                              │ 465863     │    7  │  
+│ image/gif                                                               │ 239336     │   80  │  
+│ image/jpeg                                                              │ 3503759318 │ 9312  │  
+│ image/png                                                               │ 13071875   │  168  │  
+│ image/svg+xml                                                           │ 7841523    │   80  │  
+│ image/webp                                                              │ 1762591    │    6  │  
+│ text/calendar; charset=UTF-8                                            │ 19664831   │  509  │  
+│ text/css                                                                │ 3854057    │  136  │  
+│ text/html                                                               │ 50025      │  111  │  
+│ text/html; charset=UTF-8                                                │ 400341107  │ 4227  │  
+│ text/html; charset=iso-8859-1                                           │ 10593      │   17  │  
+│ text/html; charset=windows-1251                                         │ 323297     │  326  │  
+│ text/plain                                                              │ 578        │    1  │  
+│ text/plain; charset=UTF-8                                               │ 1957       │    2  │  
+│ text/plain; charset=utf-8                                               │ 2452       │    5  │  
+│ text/plain;charset=UTF-8                                                │ 259        │    1  │  
+│ text/plain;charset=windows-1251                                         │ 350        │    1  │  
+│ text/xml                                                                │ 1288       │    1  │  
+│ text/xml; charset=UTF-8                                                 │ 1845904    │  380  │  
+│ text/xml; charset=utf-8                                                 │ 33318      │    1  │  
+│ text/xml;charset=utf-8                                                  │ 14092154   │    1  │  
+│ video/mp4                                                               │ 1026529269 │   21  │   
 └─────────────────────────────────────────────────────────────────────────┴────────────┴───────┘
 </pre>
