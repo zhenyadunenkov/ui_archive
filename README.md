@@ -63,7 +63,7 @@ wget "https://uikovcheg.narod.ru/" --mirror -k --warc-cdx=on  --warc-file="ui_ko
 
 ## **6\. Контакты**
 
-[epdunenkov@edu.hse.ru](mailto:epdunenkov@edu.hse.ru)
+С автором коллекции можно связаться через e-mail [epdunenkov@edu.hse.ru](mailto:epdunenkov@edu.hse.ru) или [issues](https://github.com/zhenyadunenkov/ui_archive/issues) к данному репозиторию
 
 ## **7\. Условия использования коллекции**
 
