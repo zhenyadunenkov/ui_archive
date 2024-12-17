@@ -2,7 +2,7 @@
 
 ## **1\. Информация о сайте**
 
-[![Скриншот архива сайта](https://raw.githubusercontent.com/zhenyadunenkov/ui_archive/refs/heads/main/ui_gallery/replay_web1.png)](https://raw.githubusercontent.com/zhenyadunenkov/ui_archive/refs/heads/main/ui_gallery/replay_web1.png))
+[![Скриншот архива сайта](https://raw.githubusercontent.com/zhenyadunenkov/ui_archive/refs/heads/main/ui_gallery/replay_web.png)](https://raw.githubusercontent.com/zhenyadunenkov/ui_archive/refs/heads/main/ui_gallery/replay_web.png))
 
 Сайт картинной галереи города Усть-Илимска. Данный сайт предоставляет информацию о деятельности галереи, её экспозициях, выставках и мероприятиях. На сайте можно найти сведения о художниках, чьи работы представлены в коллекции, а также фотографии экспонатов и анонсы будущих событий. Ресурс служит информационным порталом для посетителей и любителей искусства города Усть-Илимска.
 
