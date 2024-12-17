@@ -32,6 +32,7 @@
 ## **3\. Анализ метаданных**
 
 Результаты выполнения команды ```metawarc analyze```:
+<pre>
 2024-12-17 18:22:42,563 - root - DEBUG - Preparing /content/drive/MyDrive/dk_naimushina.warc
 2024-12-17 18:23:27,946 - root - INFO - Processed 10000 records
 mimes                                                                      files        size          share
@@ -56,7 +57,7 @@ application/vnd.openxmlformats-officedocument.wordprocessingml.document        3
 image/gif                                                                      6       16519    0.000628766
 text/plain                                                                     3        1650    6.28043e-05
 #total                                                                     12322  2627209499  100
-
+</pre>
 
 Мы можем видеть, что наибольшую долю на диске занимают изображения и pdf-файлы.
 
